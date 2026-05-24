@@ -20,6 +20,20 @@
 
 CrewAI is an open-source framework for building and deploying AI agents designed to supercharge business processes and decision-making. Learn more at [crewai.com](https://crewai.com).
 
+## Install CrewAI
+
+Using `uv`:
+
+```bash
+uv pip install crewai
+```
+
+Using `pip`:
+
+```bash
+pip install crewai
+```
+
 ---
 
 ## Submission Guidelines
